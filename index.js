@@ -6,7 +6,7 @@ const app = express();
 const PORT = process.env.PORT || 8000;
 
 // MongoDB Connection
-const MONGODB_URL = "dc65473a-0849-4875-99dc-29c10a1a39c5"
+const MONGODB_URL = "mongodb+srv://chutiyabotwp:<db_password>@cluster0.hvrlilc.mongodb.net/?appName=Cluster0"
 if (!MONGODB_URL) {
     console.error("❌ MONGODB_URL is missing in environment variables!");
 } else {
