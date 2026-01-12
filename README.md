@@ -1,2 +1,1 @@
-# chutiya_mini_pair
-CREATED BY NIMESHA MADHUSHAN
+# CHUTIYA-MINI-PAIR
